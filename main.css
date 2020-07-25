@@ -1,0 +1,23 @@
+header{
+    background-color: red;
+}
+
+h1{
+    color: orange;
+    background-color: blue;
+}
+
+input{
+    color:green;
+    color:yellow;
+}
+
+body h1{
+    color:pink;
+    background: purple;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
